@@ -43,23 +43,23 @@ A Streamlit-based web app that summarizes YouTube videos into structured reports
 ## ⚙️ Installation
 
 ### **1. Clone the Repository**
-    ```bash
-    git clone https://github.com/EbrahimAR/Youtube-Video-Summarizer.git
-    cd youtube-video-summarizer
-    ```
+```bash
+git clone https://github.com/EbrahimAR/Youtube-Video-Summarizer.git
+cd youtube-video-summarizer
+```
 
 ### **2. Create a virtual environment (recommended)**
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # For Linux/Mac
-    venv\Scripts\activate     # For Windows
-    ```
+```bash
+python -m venv venv
+source venv/bin/activate  # For Linux/Mac
+venv\Scripts\activate     # For Windows
+```
 
 
 ### **3. Install dependencies**
-    ```bash
-    pip install -r requirements.txt
-    ```
+```bash
+pip install -r requirements.txt
+```
     
 ---
 
@@ -124,5 +124,5 @@ Ebrahim Abdul Raoof
 
 ## 📜 License
 
-This project is licensed under the MIT License. See [LICENSE]() for details.
+This project is licensed under the MIT License. See [LICENSE](https://github.com/EbrahimAR/YouTube-Video-Summarizer/blob/main/LICENSE) for details.
 #
