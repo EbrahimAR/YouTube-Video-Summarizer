@@ -10,12 +10,12 @@ A Streamlit-based web app that summarizes YouTube videos into structured reports
 ---
 
 ## ✅ Features
-✔ Summarizes **entire YouTube videos into structured reports** (Introduction, Main Points, Key Takeaways)
-✔ Supports **videos without subtitles** using Whisper transcription
-✔ Handles **long transcripts** with chunking + merging
-✔ Downloads **PDF notes** with clean formatting
-✔ Displays **video info and thumbnail**
-✔ Uses **Streamlit for UI**
+- ✔ Summarizes **entire YouTube videos into structured reports** (Introduction, Main Points, Key Takeaways)
+- ✔ Supports **videos without subtitles** using Whisper transcription
+- ✔ Handles **long transcripts** with chunking + merging
+- ✔ Downloads **PDF notes** with clean formatting
+- ✔ Displays **video info and thumbnail**
+- ✔ Uses **Streamlit for UI**
 
 ---
 
@@ -32,26 +32,12 @@ A Streamlit-based web app that summarizes YouTube videos into structured reports
 
 ## 📂 Project Structure
     AI-Exam-System/
-    │
-    ├── java-frontend/
-    │ ├── AIExamSystem.java # Main Java GUI code
-    │ ├── lib/gson-2.10.jar # JSON parsing library
-    │
-    ├── python-backend/
-    │ ├── question_generator.py # Python script for question generation
-    │ ├── requirements.txt # Python dependencies
-    │
-    ├── data/
-    │ ├── questions_dataset.json # Generated question set
-    │
-    ├── docs/
-    │ ├── screenshots/ # Screenshots for documentation
-    │
+    ├── main.py
+    ├── requirements.txt
     ├── README.md
     ├── LICENSE
     └── .gitignore
-
-
+    
 ---
 
 ## ⚙️ Installation
